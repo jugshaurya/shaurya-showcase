@@ -37,7 +37,9 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         // need to look out whether it caches inpage section or not else remove #stats
-        precachePages: [`/blogs/*`, `/#stats`],
+        // removing for now - add back later
+        // precachePages: [`/blogs/*`, `/#stats`],
+        precachePages: [`/#stats`],
       },
     },
     {

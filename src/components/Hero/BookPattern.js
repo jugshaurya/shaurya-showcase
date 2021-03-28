@@ -108,12 +108,12 @@ const BookPattern = () => {
           </g>
         </a>
         <a
-          id="twitter"
-          href={twitterLink}
+          id="linkedin"
+          href={linkedinLink}
           target="_blank"
           rel="noopener noreferrer"
         >
-          <g id="twittergroup">
+          <g id="linkedingroup">
             <ellipse
               id="Ellipse 23_2"
               cx="819.801"
@@ -132,12 +132,12 @@ const BookPattern = () => {
           </g>
         </a>
         <a
-          id="linkedin"
-          href={linkedinLink}
+          id="twitter"
+          href={twitterLink}
           target="_blank"
           rel="noopener noreferrer"
         >
-          <g id="linkedingroup">
+          <g id="twittergroup">
             <ellipse
               id="Ellipse 23_3"
               cx="744.806"

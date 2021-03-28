@@ -26,10 +26,10 @@ const links = [
     name: 'Skills',
     href: '/#skills',
   },
-  {
-    name: 'Blogs',
-    href: '/blogs',
-  },
+  // {
+  //   name: 'Blogs',
+  //   href: '/blogs',
+  // },
   {
     name: 'Experience',
     href: '/#experience',

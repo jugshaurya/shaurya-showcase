@@ -72,3 +72,6 @@ yarn-error.log
 # Security
 blogs
 project.json
+
+#Ideas
+.ideas/

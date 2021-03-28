@@ -57,6 +57,7 @@ Font Family: Gloria Hallelujah && Roboto Mono
 - [x] Rendering _Github Activity Svgs_ :Issue #28
 - [x] Snow Effect
 - [x] Bulb on/off @skills section
+- [ ] Add more blogs via mdx setup
 
 ### 👥 Contribution Guides
 
